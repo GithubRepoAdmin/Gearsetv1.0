@@ -1,0 +1,74 @@
+{
+  "appPageId" : "eb49d545-5e28-49b3-aecc-2f85510039f6",
+  "componentName" : "siteforce:sldsThreeCol444Layout",
+  "dataProviders" : [ ],
+  "id" : "bd30812f-cead-48ef-bc85-0a07ed2a9556",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : { },
+      "componentName" : "c:testData",
+      "id" : "ec121c45-f5f1-4ee6-a788-bd5a75f89daf",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "maxWidth" : 100,
+        "overlayColor" : "rgba(0,0,0,0.6)",
+        "overlayHoverColor" : "",
+        "radius" : 0,
+        "showTitle" : false,
+        "textAlignment" : "center",
+        "textBgColor" : "rgba(0,0,0,0)",
+        "textBgHoverColor" : "rgba(0,0,0,0)",
+        "textColor" : "",
+        "textHoverColor" : "",
+        "textPosition" : "center center",
+        "title" : "Featured Topics"
+      },
+      "componentName" : "forceTopic:featuredTopics",
+      "id" : "c41bcaee-f090-4eee-afae-f41fabd5e18f",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "5b734416-9611-4ffa-ad82-f1da53c7db9b",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "86b05f32-15d3-4ae9-88b6-9772e81121ce",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "95b36ea3-9da3-42cc-80e9-76e6f60f8123",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "a534b1d0-84ea-453a-9dc1-7af855bb9f20",
+    "regionName" : "sidebarAlt",
+    "type" : "region"
+  }, {
+    "id" : "b93fd889-5264-4428-ab08-c0409806fdbc",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "594d8186-edbf-43d7-a0ef-b2dee339a7bd",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "889bf18a-1217-44c2-b6ef-d59e5dae9b93",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Home",
+  "type" : "view",
+  "viewType" : "home"
+}
