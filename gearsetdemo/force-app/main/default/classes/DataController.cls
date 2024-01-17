@@ -7,7 +7,7 @@ public with sharing class DataController {
         System.debug('Change to reproduce conflict and merge conflict');
         Account acc = [SELECT Id,Name,Email,Fax FROM Account LIMIT 1];
         if(acc.Id == 'Rushi' && acc.Name = 'Kardile'){
-            System.debug('Named Rushikesh Found');
+            System.debug('Named Rushikesh Found New changed added');
         }
     }
 }
