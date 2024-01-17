@@ -4,6 +4,6 @@ public with sharing class DataController {
     }
 
     public static void checkJiraCommentUsingGearset(){
-        System.debug('This class is used to get Jira comment back using Gearset');
+        System.debug('Change to reproduce conflict');
     }
 }
