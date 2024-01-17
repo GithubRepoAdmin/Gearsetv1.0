@@ -10,4 +10,12 @@ public with sharing class DataController {
             System.debug('Named Rushikesh Found');
         }
     }
+
+    public static void checkJiraCommentUsingGearsetOne(){
+        System.debug('Change to reproduce conflict and merge conflict');
+        Contact acc = [SELECT Id,Name FROM Contact LIMIT 1];
+        if(acc.Id == 'Rushi' && acc.Name = 'Kardile'){
+            System.debug('Named Rushikesh Found Contact Object');
+        }
+    }
 }
