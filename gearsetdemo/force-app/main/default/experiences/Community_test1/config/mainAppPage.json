@@ -1,0 +1,11 @@
+{
+  "cmsSettings" : { },
+  "currentThemeId" : "c0c9044f-a8d5-4da4-9b84-30f0eb405598",
+  "headMarkup" : null,
+  "id" : "4b81b8e4-957d-4796-b66b-fe9a359902f9",
+  "isLockerServiceEnabled" : true,
+  "isRelaxedCSPLevel" : false,
+  "label" : "main",
+  "templateName" : "Help Center Template",
+  "type" : "appPage"
+}
