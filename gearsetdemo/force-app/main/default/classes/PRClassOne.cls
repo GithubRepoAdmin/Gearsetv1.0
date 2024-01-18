@@ -10,4 +10,8 @@ public with sharing class PRClassOne {
     public static void deployDeltaChangeOnlyOne(){
         System.debug('PR ClassOne Method One more');
     }
+
+    public static void deployDeltaChangeOnlyOneTwo(){
+        System.debug('PR ClassOne Method Two more');
+    }
 }
