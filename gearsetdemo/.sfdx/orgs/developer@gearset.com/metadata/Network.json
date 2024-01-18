@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000JrGS4AAN",
+      "createdByName": "Rushikesh Kardile",
+      "createdDate": "2024-01-16T07:37:45.000Z",
+      "fileName": "networks/Community Testv1.network",
+      "fullName": "Community Testv1",
+      "id": "0DB5g000000GvlmGAC",
+      "lastModifiedById": "0055g00000JrGS4AAN",
+      "lastModifiedByName": "Rushikesh Kardile",
+      "lastModifiedDate": "2024-01-16T07:37:48.000Z",
+      "type": "Network"
+    },
+    {
+      "createdById": "0055g00000JrGS4AAN",
+      "createdByName": "Rushikesh Kardile",
+      "createdDate": "2024-01-12T06:10:59.000Z",
+      "fileName": "networks/Help Center.network",
+      "fullName": "Help Center",
+      "id": "0DB5g000000GvgbGAC",
+      "lastModifiedById": "0055g00000JrGS4AAN",
+      "lastModifiedByName": "Rushikesh Kardile",
+      "lastModifiedDate": "2024-01-12T06:12:06.000Z",
+      "type": "Network"
+    },
+    {
+      "createdById": "0055g00000JrGS4AAN",
+      "createdByName": "Rushikesh Kardile",
+      "createdDate": "2024-01-16T06:41:03.000Z",
+      "fileName": "networks/Community test.network",
+      "fullName": "Community test",
+      "id": "0DB5g000000GvlcGAC",
+      "lastModifiedById": "0055g00000JrGS4AAN",
+      "lastModifiedByName": "Rushikesh Kardile",
+      "lastModifiedDate": "2024-01-16T06:41:34.000Z",
+      "type": "Network"
+    }
+  ]
+}
