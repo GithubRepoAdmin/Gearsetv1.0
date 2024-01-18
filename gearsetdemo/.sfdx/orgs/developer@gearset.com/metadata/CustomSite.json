@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0055g00000JrGS4AAN",
+      "createdByName": "Rushikesh Kardile",
+      "createdDate": "2024-01-16T07:37:45.000Z",
+      "fileName": "sites/Community_Testv1.site",
+      "fullName": "Community_Testv1",
+      "id": "0DM5g000000ckKnGAI",
+      "lastModifiedById": "0055g00000JrGS4AAN",
+      "lastModifiedByName": "Rushikesh Kardile",
+      "lastModifiedDate": "2024-01-16T07:37:45.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "0055g00000JrGS4AAN",
+      "createdByName": "Rushikesh Kardile",
+      "createdDate": "2024-01-12T06:10:52.000Z",
+      "fileName": "sites/Help_Center.site",
+      "fullName": "Help_Center",
+      "id": "0DM5g000000ckJkGAI",
+      "lastModifiedById": "0055g00000JrGS4AAN",
+      "lastModifiedByName": "Rushikesh Kardile",
+      "lastModifiedDate": "2024-01-12T06:10:59.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "0055g00000JrGS4AAN",
+      "createdByName": "Rushikesh Kardile",
+      "createdDate": "2024-01-16T06:41:03.000Z",
+      "fileName": "sites/Community_test.site",
+      "fullName": "Community_test",
+      "id": "0DM5g000000ckKdGAI",
+      "lastModifiedById": "0055g00000JrGS4AAN",
+      "lastModifiedByName": "Rushikesh Kardile",
+      "lastModifiedDate": "2024-01-16T06:41:35.000Z",
+      "type": "CustomSite"
+    }
+  ]
+}
