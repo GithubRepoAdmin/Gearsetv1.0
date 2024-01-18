@@ -1,13 +1,9 @@
-public with sharing class FeaturePRThree {
-    public FeaturePRThree() {
+public with sharing class FeaturePrThree {
+    public FeaturePrThree() {
 
     }
 
-    public static void checkJiraCommentUsingGearsetOne(){
-        System.debug('Change to reproduce conflict and merge conflict');
-        Contact acc = [SELECT Id,Name FROM Contact LIMIT 1];
-        if(acc.Id == 'Rushi' && acc.Name == 'Kardile'){
-            System.debug('Named Rushikesh Found Contact Object');
-        }
+    public static void methodPrThree(){
+        System.debug('Method used for PR three merge to Branch QA');
     }
 }

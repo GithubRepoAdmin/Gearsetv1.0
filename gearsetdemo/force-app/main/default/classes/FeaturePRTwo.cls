@@ -1,10 +1,9 @@
-public with sharing class FeaturePRTwo {
-    public FeaturePRTwo() {
+public with sharing class FeaturePrTwo {
+    public FeaturePrTwo() {
 
     }
 
-    
-    public static void deployDeltaChangeOnly(){
-        System.debug('Feature Create PR two');
+    public static void methodPRTwo(){
+        System.debug('Method PR two used to merge QA Branch');
     }
 }
